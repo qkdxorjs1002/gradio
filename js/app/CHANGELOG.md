@@ -1,5 +1,46 @@
 # @gradio/app
 
+## 1.25.2
+
+### Patch Changes
+
+- Updated dependencies [[`98a2719`](https://github.com/gradio-app/gradio/commit/98a2719bfb9c64338caf9009891b6c6b0b33ea89), [`ddd4d3e`](https://github.com/gradio-app/gradio/commit/ddd4d3e4d3883fb7540d1df240fb08202fc77705), [`ba3ec13`](https://github.com/gradio-app/gradio/commit/ba3ec1300e81e64be7389d759b89284c66473158)]:
+  - @gradio/statustracker@0.4.8
+  - @gradio/dataframe@0.6.4
+  - @gradio/tabs@0.2.4
+  - @gradio/accordion@0.3.4
+  - @gradio/annotatedimage@0.5.3
+  - @gradio/audio@0.9.3
+  - @gradio/chatbot@0.7.3
+  - @gradio/checkbox@0.2.11
+  - @gradio/checkboxgroup@0.4.5
+  - @gradio/code@0.5.3
+  - @gradio/colorpicker@0.2.11
+  - @gradio/dropdown@0.6.2
+  - @gradio/fallback@0.2.11
+  - @gradio/file@0.5.3
+  - @gradio/fileexplorer@0.3.23
+  - @gradio/gallery@0.7.3
+  - @gradio/highlightedtext@0.4.11
+  - @gradio/html@0.1.11
+  - @gradio/image@0.9.3
+  - @gradio/imageeditor@0.4.3
+  - @gradio/json@0.1.11
+  - @gradio/label@0.2.11
+  - @gradio/markdown@0.6.5
+  - @gradio/model3d@0.8.2
+  - @gradio/number@0.3.11
+  - @gradio/paramviewer@0.4.4
+  - @gradio/plot@0.3.3
+  - @gradio/radio@0.4.5
+  - @gradio/simpledropdown@0.1.11
+  - @gradio/simpleimage@0.3.3
+  - @gradio/simpletextbox@0.1.11
+  - @gradio/slider@0.2.11
+  - @gradio/textbox@0.4.12
+  - @gradio/video@0.6.3
+  - @gradio/tabitem@0.2.4
+
 ## 1.25.1
 
 ### Patch Changes

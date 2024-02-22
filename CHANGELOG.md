@@ -1,5 +1,19 @@
 # gradio
 
+## 4.19.2
+
+### Features
+
+- [#7495](https://github.com/gradio-app/gradio/pull/7495) [`ddd4d3e`](https://github.com/gradio-app/gradio/commit/ddd4d3e4d3883fb7540d1df240fb08202fc77705) - Enable Ruff S101.  Thanks [@abidlabs](https://github.com/abidlabs)!
+- [#7443](https://github.com/gradio-app/gradio/pull/7443) [`b7a97f2`](https://github.com/gradio-app/gradio/commit/b7a97f29b84a72678a717db03d2932ed6caae6ce) - Update `httpx` to `httpx>=0.24.1` in `requirements.txt`.  Thanks [@abidlabs](https://github.com/abidlabs)!
+- [#7465](https://github.com/gradio-app/gradio/pull/7465) [`16fbe9c`](https://github.com/gradio-app/gradio/commit/16fbe9cd0cffa9f2a824a0165beb43446114eec7) - Prevent components from working with non-uploaded files.  Thanks [@aliabid94](https://github.com/aliabid94)!
+
+### Fixes
+
+- [#7466](https://github.com/gradio-app/gradio/pull/7466) [`98a2719`](https://github.com/gradio-app/gradio/commit/98a2719bfb9c64338caf9009891b6c6b0b33ea89) - Fix z-index layer of orange generating border.  Thanks [@daviirodrig](https://github.com/daviirodrig)!
+- [#7495](https://github.com/gradio-app/gradio/pull/7495) [`ddd4d3e`](https://github.com/gradio-app/gradio/commit/ddd4d3e4d3883fb7540d1df240fb08202fc77705) - ensure Dataframe headers are aligned with content when scrolling.  Thanks [@abidlabs](https://github.com/abidlabs)!
+- [#7470](https://github.com/gradio-app/gradio/pull/7470) [`ba3ec13`](https://github.com/gradio-app/gradio/commit/ba3ec1300e81e64be7389d759b89284c66473158) - Tab select fix.  Thanks [@aliabid94](https://github.com/aliabid94)!
+
 ## 4.19.1
 
 ### Features
